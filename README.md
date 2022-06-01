@@ -4,7 +4,7 @@ This algorithm is used for resource allocation and to avoid deadlocks. Bankers a
 1. it makes a simulation wherein it allocates maximum possible number of resources
 2. checks for possible activities
 3. based on the result, decides if a safe sequence exists.
-Video explanation of the implementation of this algorithm in C is given here: 
+Video explanation of the implementation of this algorithm in C is given here: https://youtu.be/6zGCc9-HZWg
 
 Lamport's logical clock:
 This algorithm is used in a distributed computer system to figure out in what order events occur.
